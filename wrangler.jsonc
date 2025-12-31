@@ -24,7 +24,7 @@
     "vars": {
         "AUTH_ENABLED": "true",
         "AUTH_USERNAME": "lewellyn",
-        "AUTH_PASSWORD": "lewellyn",
-        "AUTH_SECRET": "lewellyn"
+        "AUTH_PASSWORD": "6fe88db6cc6b73649466adf1a0980afa",
+        "AUTH_SECRET": "zZ9pLkVORKfOkovrsxINTvj1IZPV3eoP"
     }
 }
